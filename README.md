@@ -1,3 +1,3 @@
 Visualizing Rice Population Genetics
 
-<img src="rice135frames.gif" width="1000"/>
+<img src="rice135frames.gif" width="100%"/>
