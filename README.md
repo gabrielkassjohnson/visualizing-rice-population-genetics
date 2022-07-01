@@ -1,3 +1,3 @@
 
-<img src="rice135frames.gif" width="1200"/>
+<img src="rice135frames.gif" width="200%"/>
 
