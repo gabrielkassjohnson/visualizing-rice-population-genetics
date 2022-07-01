@@ -1,5 +1,5 @@
 
-<img src="rice135frames.gif" width="1600%"/>
+<img src="rice135frames.gif" width="160%"/>
 
 <img src="rice135frames.gif" width="200%"/>
 
